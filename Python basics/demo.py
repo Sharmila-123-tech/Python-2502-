@@ -39,6 +39,8 @@ print(_data)
 x = "Ravi"
 y = 30
 z = "Python"
+print(f"{x} {y} {z}")
+
 
 # Proper way of using Identifiers
 student_name = "Ravi"
